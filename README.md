@@ -7,7 +7,7 @@ we used  https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php to visual
  d3 library has been used to load the data. 
  The size of the circles displays the earthquake magnitude and the colour of the circles shows the depth of the earthquake. A legend is also displayed to show the range of depth and corresponding colour.
  
- The index.html, static/js/logic.js and static/css/style.css files required to create the map. open the index.html in browser to view the map.
+ The index.html, static/js/logic.js and static/css/style.css files required to create the map. open the index.html in browser to view the map, or visit https://malihaspk.github.io/leaflet_challenge/
  
  ![Alt text](image.png)
   
